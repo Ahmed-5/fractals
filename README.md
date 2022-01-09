@@ -8,8 +8,8 @@ For now the available fractals in this repo are:
 
 Samples from the available fractals:
 
-<img alt="Sample from Julia's Set" src="https://github.com/Ahmed-5/fractals/blob/main/julia.png" width="100">
+<img alt="Sample from Julia's Set" src="https://github.com/Ahmed-5/fractals/blob/main/julia.png" width="512">
 
-<img alt="Sample from Mandelbrot's Set" src="https://github.com/Ahmed-5/fractals/blob/main/mandelbrot.png" width="100">
+<img alt="Sample from Mandelbrot's Set" src="https://github.com/Ahmed-5/fractals/blob/main/mandelbrot.png" width="512">
 
-<img alt="Sample from 2D Polygon Fractals" src="https://github.com/Ahmed-5/fractals/blob/main/sierpinski%20triangle.png" width="100">
+<img alt="Sample from 2D Polygon Fractals" src="https://github.com/Ahmed-5/fractals/blob/main/sierpinski%20triangle.png" width="512">
