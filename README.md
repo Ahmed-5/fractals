@@ -6,6 +6,7 @@ For now the available fractals in this repo are:
 2. Mandelbrot's Set
 3. 2D Polygon Fractals (like Sierpinski's Triangle)
 4. Dragon Curve (Heighway Dragon)
+5. Hilbert Curve
 
 Samples from the available fractals:
 
@@ -16,3 +17,5 @@ Samples from the available fractals:
 <img alt="Sample from 2D Polygon Fractals" src="https://github.com/Ahmed-5/fractals/blob/main/sierpinski_triangle.png" width="512">
 
 <img alt="Sample from Heighway Dragon Curve" src="https://github.com/Ahmed-5/fractals/blob/main/dragon_curve.png" width="512">
+
+<img alt="Sample from Heighway Dragon Curve" src="https://github.com/Ahmed-5/fractals/blob/main/hilbert_curve.png" width="512">
