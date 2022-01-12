@@ -1,5 +1,5 @@
 # fractals
-Notebook for some of my favorite fractals
+Implementations for some of my favorite fractals
 
 For now the available fractals in this repo are:
 1. Julia's Set
