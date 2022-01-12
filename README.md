@@ -1,4 +1,4 @@
-# fractals
+# Fractals
 Implementations for some of my favorite fractals
 
 For now the available fractals in this repo are:
