@@ -7,7 +7,8 @@ For now the available fractals in this repo are:
 3. 2D Polygon Fractals (like Sierpinski's Triangle)
 4. Dragon Curve (Heighway Dragon)
 5. Hilbert Curve
-6. Sierpinski's Curve (actually one of them)
+6. Sierpinski's Curve
+7. Another Square Sierpinski's Curve
 
 Samples from the available fractals:
 
@@ -19,6 +20,8 @@ Samples from the available fractals:
 
 <img alt="Sample from Heighway Dragon Curve" src="https://github.com/Ahmed-5/fractals/blob/main/dragon_curve.png" width="512">
 
-<img alt="Sample from Heighway Dragon Curve" src="https://github.com/Ahmed-5/fractals/blob/main/hilbert_curve.png" width="512">
+<img alt="Sample from Hilbert Curve" src="https://github.com/Ahmed-5/fractals/blob/main/hilbert_curve.png" width="512">
 
-<img alt="Sample from 2D Polygon Fractals" src="https://github.com/Ahmed-5/fractals/blob/main/sierpinski_curve.png" width="512">
+<img alt="Sample from Sierpinski's Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sierpinski_curve.png" width="512">
+
+<img alt="Sample from The Second Sierpinski's Curve" src="https://github.com/Ahmed-5/fractals/blob/main/another_sierpinski_curve.png" width="512">
