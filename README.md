@@ -10,9 +10,10 @@ For now the FINISHED fractals in this repo are:
 6. Sierpinski's Curve
 7. Another Square Sierpinski's Curve
 8. Newton's Fractal
+9. Buddhabrot
 
-Some fractals under CONSTRUCTION are:
-1. Buddhabrot
+<!-- Some fractals under CONSTRUCTION are: -->
+<!-- 1. Buddhabrot -->
 
 Samples from the available fractals:
 
@@ -31,3 +32,5 @@ Samples from the available fractals:
 <img alt="Sample from The Second Sierpinski's Curve" src="https://github.com/Ahmed-5/fractals/blob/main/another_sierpinski_curve.png" width="512">
 
 <img alt="Sample from Newton's Fractal" src="https://github.com/Ahmed-5/fractals/blob/main/newton_fractal.png" width="512">
+
+<img alt="Sample from Mandelbrot's Set" src="https://github.com/Ahmed-5/fractals/blob/main/buddhabrot.png" width="512">
