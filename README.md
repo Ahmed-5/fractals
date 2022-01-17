@@ -29,24 +29,46 @@ Some fractals under CONSTRUCTION are:
 
 Samples from the available fractals:
 
-<img alt="Sample from Julia's Set" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/julia.jpeg">
+<a href = "https://github.com/Ahmed-5/fractals/blob/main/images/julia.png">
+    <img alt="Sample from Julia's Set" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/julia.jpeg">
+</a>
 
-<img alt="Sample from Mandelbrot's Set" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/mandelbrot.jpeg">
+<a href = "https://github.com/Ahmed-5/fractals/blob/main/images/mandelbrot.png">
+    <img alt="Sample from Mandelbrot's Set" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/mandelbrot.jpeg">
+</a>
 
-<img alt="Sample from 2D Polygon Fractals" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/sierpinski_triangle.jpeg">
+<a href = "https://github.com/Ahmed-5/fractals/blob/main/images/sierpinski_triangle.png">
+    <img alt="Sample from 2D Polygon Fractals" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/sierpinski_triangle.jpeg">
+</a>
 
-<img alt="Sample from Heighway Dragon Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/dragon_curve.jpeg">
+<a href = "https://github.com/Ahmed-5/fractals/blob/main/images/dragon_curve.png">
+    <img alt="Sample from Heighway Dragon Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/dragon_curve.jpeg">
+</a>
 
-<img alt="Sample from Hilbert Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/hilbert_curve.jpeg">
+<a href = "https://github.com/Ahmed-5/fractals/blob/main/images/hilbert_curve.png">
+    <img alt="Sample from Hilbert Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/hilbert_curve.jpeg">
+</a>
 
-<img alt="Sample from Sierpinski's Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/sierpinski_curve.jpeg">
+<a href = "https://github.com/Ahmed-5/fractals/blob/main/images/sierpinski_curve.png">
+    <img alt="Sample from Sierpinski's Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/sierpinski_curve.jpeg">
+</a>
 
-<img alt="Sample from The Second Sierpinski's Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/another_sierpinski_curve.jpeg">
+<a href = "https://github.com/Ahmed-5/fractals/blob/main/images/another_sierpinski_curve.png">
+    <img alt="Sample from The Second Sierpinski's Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/another_sierpinski_curve.jpeg">
+</a>
 
-<img alt="Sample from Newton's Fractal" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/newton_fractal.jpeg">
+<a href = "https://github.com/Ahmed-5/fractals/blob/main/images/newton_fractal.png">
+    <img alt="Sample from Newton's Fractal" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/newton_fractal.jpeg">
+</a>
 
-<img alt="Sample from Buddhabrot Probability distribution" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/buddhabrot.jpeg">
+<a href = "https://github.com/Ahmed-5/fractals/blob/main/images/buddhabrot.png">
+    <img alt="Sample from Buddhabrot Probability distribution" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/buddhabrot.jpeg">
+</a>
 
-<img alt="Sample from Multibot (d=3)" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/tribrot.jpeg">
+<a href = "https://github.com/Ahmed-5/fractals/blob/main/images/tribrot.png">
+    <img alt="Sample from Multibot (d=3)" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/tribrot.jpeg">
+</a>
 
-<img alt="Sample from Levy's Standard Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/levy_standard_curve.jpeg">
+<a href = "https://github.com/Ahmed-5/fractals/blob/main/images/levy_standard_curve.png">
+    <img alt="Sample from Levy's Standard Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/levy_standard_curve.jpeg">
+</a>
