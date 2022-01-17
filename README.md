@@ -17,6 +17,7 @@ For now the FINISHED fractals in this repo are:
 9. Buddhabrot Probability distribution
 10. Multibrot set
 11. Levy's Standard Curve
+12. TwinDragon Curve
 
 Some fractals under CONSTRUCTION are:
 
@@ -25,7 +26,6 @@ Some fractals under CONSTRUCTION are:
 3. Koch's Anti-Snowflake
 4. De Rham's Curve
 5. Lindenmayer's System
-6. TwinDragon Curve
 
 Samples from the available fractals:
 
@@ -71,4 +71,8 @@ Samples from the available fractals:
 
 <a href = "https://github.com/Ahmed-5/fractals/blob/main/images/levy_standard_curve.png">
     <img alt="Sample from Levy's Standard Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/levy_standard_curve.jpeg">
+</a>
+
+<a href = "https://github.com/Ahmed-5/fractals/blob/main/images/twindragon_curve.png">
+    <img alt="Sample from Heighway Dragon Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/twindragon_curve.jpeg">
 </a>
