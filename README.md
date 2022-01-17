@@ -23,6 +23,7 @@ Some fractals under CONSTRUCTION are:
 1. Levy's L-Curve
 2. Koch's Snowflake
 3. Koch's Anti-Snowflake
+4. De Rham Curve
 
 Samples from the available fractals:
 
