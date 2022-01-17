@@ -15,27 +15,30 @@ For now the FINISHED fractals in this repo are:
 9. Buddhabrot Probability distribution
 10. Multibrot set
 
-<!-- Some fractals under CONSTRUCTION are: -->
-<!-- 1. Buddhabrot -->
+Some fractals under CONSTRUCTION are:
+
+1. Levy's L-Curve (2 varaints)
+2. Koch's Snowflake
+3. Koch's Anti-Snowflake
 
 Samples from the available fractals:
 
-<img alt="Sample from Julia's Set" src="https://github.com/Ahmed-5/fractals/blob/main/julia.png" width="512">
+<img alt="Sample from Julia's Set" src="https://github.com/Ahmed-5/fractals/blob/main/images/julia.png" width="512">
 
-<img alt="Sample from Mandelbrot's Set" src="https://github.com/Ahmed-5/fractals/blob/main/mandelbrot.png" width="512">
+<img alt="Sample from Mandelbrot's Set" src="https://github.com/Ahmed-5/fractals/blob/main/images/mandelbrot.png" width="512">
 
-<img alt="Sample from 2D Polygon Fractals" src="https://github.com/Ahmed-5/fractals/blob/main/sierpinski_triangle.png" width="512">
+<img alt="Sample from 2D Polygon Fractals" src="https://github.com/Ahmed-5/fractals/blob/main/images/sierpinski_triangle.png" width="512">
 
-<img alt="Sample from Heighway Dragon Curve" src="https://github.com/Ahmed-5/fractals/blob/main/dragon_curve.png" width="512">
+<img alt="Sample from Heighway Dragon Curve" src="https://github.com/Ahmed-5/fractals/blob/main/images/dragon_curve.png" width="512">
 
-<img alt="Sample from Hilbert Curve" src="https://github.com/Ahmed-5/fractals/blob/main/hilbert_curve.png" width="512">
+<img alt="Sample from Hilbert Curve" src="https://github.com/Ahmed-5/fractals/blob/main/images/hilbert_curve.png" width="512">
 
-<img alt="Sample from Sierpinski's Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sierpinski_curve.png" width="512">
+<img alt="Sample from Sierpinski's Curve" src="https://github.com/Ahmed-5/fractals/blob/main/images/sierpinski_curve.png" width="512">
 
-<img alt="Sample from The Second Sierpinski's Curve" src="https://github.com/Ahmed-5/fractals/blob/main/another_sierpinski_curve.png" width="512">
+<img alt="Sample from The Second Sierpinski's Curve" src="https://github.com/Ahmed-5/fractals/blob/main/images/another_sierpinski_curve.png" width="512">
 
-<img alt="Sample from Newton's Fractal" src="https://github.com/Ahmed-5/fractals/blob/main/newton_fractal.png" width="512">
+<img alt="Sample from Newton's Fractal" src="https://github.com/Ahmed-5/fractals/blob/main/images/newton_fractal.png" width="512">
 
-<img alt="Sample from Buddhabrot Probability distribution" src="https://github.com/Ahmed-5/fractals/blob/main/buddhabrot.png" width="512">
+<img alt="Sample from Buddhabrot Probability distribution" src="https://github.com/Ahmed-5/fractals/blob/main/images/buddhabrot.png" width="512">
 
-<img alt="Sample from Multibot (d=3)" src="https://github.com/Ahmed-5/fractals/blob/main/tribrot.png" width="512">
+<img alt="Sample from Multibot (d=3)" src="https://github.com/Ahmed-5/fractals/blob/main/images/tribrot.png" width="512">
