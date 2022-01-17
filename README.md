@@ -25,6 +25,7 @@ Some fractals under CONSTRUCTION are:
 3. Koch's Anti-Snowflake
 4. De Rham's Curve
 5. Lindenmayer's System
+6. TwinDragon Curve
 
 Samples from the available fractals:
 
