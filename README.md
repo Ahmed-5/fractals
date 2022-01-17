@@ -2,7 +2,7 @@
 
 ## Implementations for some of my favorite fractals
 
-### To see the full images go to images directory images shown below are downsampled images of the original images
+### To see the full images please click on the image to be re-routed to the original image
 
 For now the FINISHED fractals in this repo are:
 
