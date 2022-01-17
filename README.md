@@ -16,10 +16,11 @@ For now the FINISHED fractals in this repo are:
 8. Newton's Fractal
 9. Buddhabrot Probability distribution
 10. Multibrot set
+11. Levy's Standard Curve
 
 Some fractals under CONSTRUCTION are:
 
-1. Levy's L-Curve (2 varaints)
+1. Levy's L-Curve
 2. Koch's Snowflake
 3. Koch's Anti-Snowflake
 
@@ -44,3 +45,5 @@ Samples from the available fractals:
 <img alt="Sample from Buddhabrot Probability distribution" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/buddhabrot.jpeg">
 
 <img alt="Sample from Multibot (d=3)" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/tribrot.jpeg">
+
+<img alt="Sample from Levy's Standard Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/levy_standard_curve.jpeg">
