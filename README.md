@@ -18,6 +18,7 @@ For now the FINISHED fractals in this repo are:
 10. Multibrot set
 11. Levy's Standard Curve
 12. TwinDragon Curve
+13. Sierpinski's Carpet
 
 Some fractals under CONSTRUCTION are:
 
@@ -75,4 +76,8 @@ Samples from the available fractals:
 
 <a href = "https://github.com/Ahmed-5/fractals/blob/main/images/twindragon_curve.png">
     <img alt="Sample from Heighway Dragon Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/twindragon_curve.jpeg">
+</a>
+
+<a href = "https://github.com/Ahmed-5/fractals/blob/main/images/sierpinski_carpet.png">
+    <img alt="Sample from Heighway Dragon Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/sierpinski_carpet.jpeg">
 </a>
