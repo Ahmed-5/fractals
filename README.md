@@ -20,6 +20,7 @@ For now the FINISHED fractals in this repo are:
 12. TwinDragon Curve
 13. Sierpinski's Carpet
 14. Cesàro's Curve
+15. Koch-Peano Curve
 
 Some fractals under CONSTRUCTION are:
 
@@ -85,4 +86,8 @@ Samples from the available fractals:
 
 <a href = "https://github.com/Ahmed-5/fractals/blob/main/images/cesaro_curve.png">
     <img alt="Sample from Heighway Dragon Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/cesaro_curve.jpeg">
+</a>
+
+<a href = "https://github.com/Ahmed-5/fractals/blob/main/images/koch_peano_curve.png">
+    <img alt="Sample from Heighway Dragon Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/koch_peano_curve.jpeg">
 </a>
