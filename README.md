@@ -22,7 +22,7 @@ For now the FINISHED fractals in this repo are:
 14. <a href="#14">Cesàro's Curve</a>
 15. <a href="#15">Koch-Peano Curve</a>
 16. <a href="#16">Levy's L-Curve</a> (made by using Lindenmayer's System, much to my dissapointment it is very close to being identical to the standard curve)
-17. <a href="#16">Koch's Snowflake</a>
+17. <a href="#17">Koch's Snowflake</a>
 
 Some fractals under CONSTRUCTION are:
 
