@@ -6,23 +6,23 @@
 
 For now the FINISHED fractals in this repo are:
 
-<a href="#1">1. Julia's Set</a>
-<a href="#2">2. Mandelbrot's Set</a>
-<a href="#3">3. 2D Polygon Fractals</a> (like Sierpinski's Triangle)
-<a href="#4">4. Dragon Curve (Heighway Dragon)</a>
-<a href="#5">5. Hilbert Curve</a>
-<a href="#6">6. Sierpinski's Curve</a>
-<a href="#7">7. Another Square Sierpinski's Curve</a>
-<a href="#8">8. Newton's Fractal</a>
-<a href="#9">9. Buddhabrot Probability distribution</a>
-<a href="#10">10. Multibrot set</a>
-<a href="#11">11. Levy's Standard Curve</a>
-<a href="#12">12. TwinDragon Curve</a>
-<a href="#13">13. Sierpinski's Carpet</a>
-<a href="#14">14. Cesàro's Curve</a>
-<a href="#15">15. Koch-Peano Curve</a>
-<a href="#16">16. Levy's L-Curve</a> (made by using Lindenmayer's System, much to my dissapointment it is very close to being identical to the standard curve)
-17. Koch's Snowflake
+1. <a href="#1">Julia's Set</a>
+2. <a href="#2">Mandelbrot's Set</a>
+3. <a href="#3">2D Polygon Fractals</a> (like Sierpinski's Triangle)
+4. <a href="#4">Dragon Curve (Heighway Dragon)</a>
+5. <a href="#5">Hilbert Curve</a>
+6. <a href="#6">Sierpinski's Curve</a>
+7. <a href="#7">Another Square Sierpinski's Curve</a>
+8. <a href="#8">Newton's Fractal</a>
+9. <a href="#9">Buddhabrot Probability distribution</a>
+10. <a href="#10">Multibrot set</a>
+11. <a href="#11">Levy's Standard Curve</a>
+12. <a href="#12">TwinDragon Curve</a>
+13. <a href="#13">Sierpinski's Carpet</a>
+14. <a href="#14">Cesàro's Curve</a>
+15. <a href="#15">Koch-Peano Curve</a>
+16. <a href="#16">Levy's L-Curve</a> (made by using Lindenmayer's System, much to my dissapointment it is very close to being identical to the standard curve)
+17. <a href="#16">Koch's Snowflake</a>
 
 Some fractals under CONSTRUCTION are:
 
