@@ -23,12 +23,12 @@ For now the FINISHED fractals in this repo are:
 15. <a href="#15">Koch-Peano Curve</a>
 16. <a href="#16">Levy's L-Curve</a> (made by using Lindenmayer's System, much to my dissapointment it is very close to being identical to the standard curve)
 17. <a href="#17">Koch's Snowflake</a>
+18. <a href="#18">Koch's Anti-Snowflake</a>
 
 Some fractals under CONSTRUCTION are:
 
-1. Koch's Anti-Snowflake
-2. De Rham's Curve
-3. Lindenmayer's System
+1. De Rham's Curve
+2. Lindenmayer's System
 
 Samples from the available fractals:
 
@@ -98,4 +98,8 @@ Samples from the available fractals:
 
 <a id="17" href = "https://github.com/Ahmed-5/fractals/blob/main/images/koch_snowflake.png">
     <img alt="Sample from Koch's Snowflake" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/koch_snowflake.jpeg">
+</a>
+
+<a id="18" href = "https://github.com/Ahmed-5/fractals/blob/main/images/koch_antisnowflake.png">
+    <img alt="Sample from Koch's Anti-Snowflake" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/koch_antisnowflake.jpeg">
 </a>
