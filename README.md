@@ -26,6 +26,7 @@ For now the FINISHED fractals in this repo are:
 18. <a href="#18">Koch's Anti-Snowflake</a>
 19. <a href="#19">Peano's Curve</a>
 20. <a href="#20">Zubieta Julia</a>
+21. <a href="#21">Sine Julia</a>
 
 Samples from the available fractals:
 
@@ -107,4 +108,8 @@ Samples from the available fractals:
 
 <a id="20" href = "https://github.com/Ahmed-5/fractals/blob/main/images/zubieta_julia.png">
     <img alt="Sample from Zubieta Julia" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/zubieta_julia.jpeg">
+</a>
+
+<a id="21" href = "https://github.com/Ahmed-5/fractals/blob/main/images/sin_julia.png">
+    <img alt="Sample from Sine Julia" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/sin_julia.jpeg">
 </a>
