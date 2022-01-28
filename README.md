@@ -28,6 +28,7 @@ For now the FINISHED fractals in this repo are:
 20. <a href="#20">Zubieta Julia</a>
 21. <a href="#21">Sine Julia</a>
 22. <a href="#22">Triple Dragon</a>
+23. <a href="#23">Logistic Map</a> (aspect ratio in the sample was ignored but the original has the right aspect ratio)
 
 Samples from the available fractals:
 
@@ -117,4 +118,8 @@ Samples from the available fractals:
 
 <a id="22" href = "https://github.com/Ahmed-5/fractals/blob/main/images/triple_dragon.png">
     <img alt="Sample from Triple Dragon" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/triple_dragon.jpeg">
+</a>
+
+<a id="23" href = "https://github.com/Ahmed-5/fractals/blob/main/images/logistic_map.png">
+    <img alt="Logistic Map" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/logistic_map.jpeg">
 </a>
