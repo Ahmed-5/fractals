@@ -27,6 +27,7 @@ For now the FINISHED fractals in this repo are:
 19. <a href="#19">Peano's Curve</a>
 20. <a href="#20">Zubieta Julia</a>
 21. <a href="#21">Sine Julia</a>
+22. <a href="#22">Triple Dragon</a>
 
 Samples from the available fractals:
 
@@ -112,4 +113,8 @@ Samples from the available fractals:
 
 <a id="21" href = "https://github.com/Ahmed-5/fractals/blob/main/images/sin_julia.png">
     <img alt="Sample from Sine Julia" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/sin_julia.jpeg">
+</a>
+
+<a id="22" href = "https://github.com/Ahmed-5/fractals/blob/main/images/triple_dragon.png">
+    <img alt="Sample from Triple Dragon" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/triple_dragon.jpeg">
 </a>
