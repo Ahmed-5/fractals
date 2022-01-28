@@ -31,6 +31,7 @@ For now the FINISHED fractals in this repo are:
 23. <a href="#23">Logistic Map</a> 
 24. <a href="#24">Marek Dragon</a> 
 25. <a href="#25">Cactus</a> 
+26. <a href="#26">Secant Sea</a> 
 
 Samples from the available fractals:
 
@@ -132,4 +133,8 @@ Samples from the available fractals:
 
 <a id="25" href = "https://github.com/Ahmed-5/fractals/blob/main/images/cactus.png">
     <img alt="Sample from Cactus" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/cactus.jpeg">
+</a>
+
+<a id="26" href = "https://github.com/Ahmed-5/fractals/blob/main/images/secant_sea.png">
+    <img alt="Sample from Secant Sea" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/secant_sea.jpeg">
 </a>
