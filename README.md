@@ -28,7 +28,7 @@ For now the FINISHED fractals in this repo are:
 20. <a href="#20">Zubieta Julia</a>
 21. <a href="#21">Sine Julia</a>
 22. <a href="#22">Triple Dragon</a>
-23. <a href="#23">Logistic Map</a> (aspect ratio in the sample was ignored but the original has the right aspect ratio)
+23. <a href="#23">Logistic Map</a> 
 
 Samples from the available fractals:
 
