@@ -33,7 +33,8 @@ For now the FINISHED fractals in this repo are:
 25. <a href="#25">Cactus</a> 
 26. <a href="#26">Secant Sea</a> 
 27. <a href="#27">Popcorn</a> 
-28. <a href="#28">John Tippetts' Mandelbrot</a> 
+28. <a href="#28">John Tippetts' Mandelbrot</a>
+29. <a href="#29">z4 Julia Gasket</a> 
 
 Samples from the available fractals:
 
@@ -146,5 +147,9 @@ Samples from the available fractals:
 </a>
 
 <a id="28" href = "https://github.com/Ahmed-5/fractals/blob/main/images/tippetts_mandelbrot.png">
-    <img alt="Sample from Popcorn" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/tippetts_mandelbrot.jpeg">
+    <img alt="Sample from John Tippetts' Mandelbrot" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/tippetts_mandelbrot.jpeg">
+</a>
+
+<a id="29" href = "https://github.com/Ahmed-5/fractals/blob/main/images/z4_gasket.png">
+    <img alt="Sample from z4 Julia Gasket" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/z4_gasket.jpeg">
 </a>
