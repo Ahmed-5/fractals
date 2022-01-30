@@ -37,6 +37,7 @@ For now the FINISHED fractals in this repo are:
 29. <a href="#29">z4 Julia Gasket</a> 
 30. <a href="#30">Reuleaux Triangle</a> 
 31. <a href="#31">Sinh Julia</a> 
+32. <a href="#32">Spiral Septagon</a> 
 
 Samples from the available fractals:
 
@@ -162,4 +163,8 @@ Samples from the available fractals:
 
 <a id="31" href = "https://github.com/Ahmed-5/fractals/blob/main/images/sinh_julia.png">
     <img alt="Sample from Sinh Julia" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/sinh_julia.jpeg">
+</a>
+
+<a id="31" href = "https://github.com/Ahmed-5/fractals/blob/main/images/spiral_septagon.png">
+    <img alt="Sample from Spiral Septagon" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/spiral_septagon.jpeg">
 </a>
