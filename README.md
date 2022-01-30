@@ -36,6 +36,7 @@ For now the FINISHED fractals in this repo are:
 28. <a href="#28">John Tippetts' Mandelbrot</a>
 29. <a href="#29">z4 Julia Gasket</a> 
 30. <a href="#30">Reuleaux Triangle</a> 
+31. <a href="#31">Sinh Julia</a> 
 
 Samples from the available fractals:
 
@@ -157,4 +158,8 @@ Samples from the available fractals:
 
 <a id="30" href = "https://github.com/Ahmed-5/fractals/blob/main/images/reuleaux_triangle.png">
     <img alt="Sample from Reuleaux Triangle" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/reuleaux_triangle.jpeg">
+</a>
+
+<a id="31" href = "https://github.com/Ahmed-5/fractals/blob/main/images/sinh_julia.png">
+    <img alt="Sample from Sinh Julia" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/sinh_julia.jpeg">
 </a>
