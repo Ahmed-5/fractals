@@ -38,7 +38,8 @@ For now the FINISHED fractals in this repo are:
 30. <a href="#30">Reuleaux Triangle</a> 
 31. <a href="#31">Sinh Julia</a> 
 32. <a href="#32">Spiral Septagon</a>
-33. <a href="#33">Ship</a> 
+33. <a href="#33">Ship</a>
+34. <a href="#34">Burning Ship</a> 
 
 Samples from the available fractals:
 
@@ -172,4 +173,8 @@ Samples from the available fractals:
 
 <a id="33" href = "https://github.com/Ahmed-5/fractals/blob/main/images/ship.png">
     <img alt="Sample from Ship" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/ship.jpeg">
+</a>
+
+<a id="34" href = "https://github.com/Ahmed-5/fractals/blob/main/images/burning_ship.png">
+    <img alt="Sample from Burning Ship" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/burning_ship.jpeg">
 </a>
