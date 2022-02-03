@@ -40,6 +40,7 @@ For now the FINISHED fractals in this repo are:
 32. <a href="#32">Spiral Septagon</a>
 33. <a href="#33">Ship</a>
 34. <a href="#34">Burning Ship</a> 
+35. <a href="#35">Sierpinski's Arrowhead Curve</a>
 
 Samples from the available fractals:
 
@@ -177,4 +178,8 @@ Samples from the available fractals:
 
 <a id="34" href = "https://github.com/Ahmed-5/fractals/blob/main/images/burning_ship.png">
     <img alt="Sample from Burning Ship" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/burning_ship.jpeg">
+</a>
+
+<a id="35" href = "https://github.com/Ahmed-5/fractals/blob/main/images/sierpinski_arrowhead.png">
+    <img alt="Sample from Sierpinski's Arrowhead Curve" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/sierpinski_arrowhead.jpeg">
 </a>
