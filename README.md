@@ -42,6 +42,7 @@ For now the FINISHED fractals in this repo are:
 34. <a href="#34">Burning Ship</a> 
 35. <a href="#35">Sierpinski's Arrowhead Curve</a>
 36. <a href="#36">Euler's Spiral</a>
+37. <a href="#37">Transcendental Spiral</a>
 
 Samples from the available fractals:
 
@@ -187,4 +188,8 @@ Samples from the available fractals:
 
 <a id="36" href = "https://github.com/Ahmed-5/fractals/blob/main/images/euler_spiral.png">
     <img alt="Sample from Euler's Spiral" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/euler_spiral.jpeg">
+</a>
+
+<a id="37" href = "https://github.com/Ahmed-5/fractals/blob/main/images/transcendental_spiral.png">
+    <img alt="Sample from PI Spiral" src="https://github.com/Ahmed-5/fractals/blob/main/sample_images/transcendental_spiral.jpeg">
 </a>
